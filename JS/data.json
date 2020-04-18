@@ -1,0 +1,26 @@
+[
+    {
+    "name": "Slava",
+    "age": 29,
+    "country": "Ukraine",
+    "city": "Lviv"
+    },
+    {
+        "name": "Slava",
+        "age": 29,
+        "country": "Ukraine",
+        "city": "Lviv"
+    },
+    {
+        "age": 29,
+        "country": "Ukraine",
+        "name": "Slava",
+        "city": "Lviv"
+    },
+    {
+        "name": "Slava",
+        "age": 29,
+        "country": "Ukraine",
+        "city": "Lviv"
+    }
+]
